@@ -20,6 +20,6 @@ switch (xp) {
         console.log ("O Herói de nome " +nickname+ " está no nível de Platina")
         break; 
     default: 
-    console.log ("O Herói de nome " +nickname+ " está no nível de Platina")
+    console.log ("O Herói de nome " +nickname+ " está no nível de Radiante")
 }
  
